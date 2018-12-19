@@ -12,6 +12,10 @@ const routes: Routes = [
     loadChildren: './home/home.module#HomePageModule'
   },
   {
+    path: 'html-input',
+    loadChildren: './html-input/html-input.module#HtmlInputPageModule'
+  },
+  {
     path: 'list',
     loadChildren: './list/list.module#ListPageModule'
   }

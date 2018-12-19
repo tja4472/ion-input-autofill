@@ -16,6 +16,11 @@ export class AppComponent {
       icon: 'home'
     },
     {
+      title: 'HTML Input',
+      url: '/html-input',
+      icon: 'home'
+    },
+    {
       title: 'List',
       url: '/list',
       icon: 'list'
