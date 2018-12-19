@@ -16,6 +16,10 @@ const routes: Routes = [
     loadChildren: './html-input/html-input.module#HtmlInputPageModule'
   },
   {
+    path: 'ion-input',
+    loadChildren: './ion-input/ion-input.module#IonInputPageModule'
+  },
+  {
     path: 'list',
     loadChildren: './list/list.module#ListPageModule'
   }

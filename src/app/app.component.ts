@@ -21,6 +21,11 @@ export class AppComponent {
       icon: 'home'
     },
     {
+      title: 'Ion Input',
+      url: '/ion-input',
+      icon: 'home'
+    },
+    {
       title: 'List',
       url: '/list',
       icon: 'list'
